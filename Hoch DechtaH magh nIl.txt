@@ -1,0 +1,240 @@
+vaj, vogh yavDaq, QemjIq tu'lu',
+QemjIq 'IQ law' Hoch latlhmey 'IQ puS.
+vaj yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej QemjIqDaq, Sor woch tu'lu',
+Sorvetlh 'IQ law' Hoch latlhmey 'IQ puS.
+vaj QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej SorDaq Qechjem'a' tu'lu',
+Qechjem'a' 'IQ law' Hoch latlhmey 'IQ puS.
+vaj SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+Qechjem'a'Daq, Qechjem tu'lu',
+Qechjem 'IQ law' Hoch latlhmey 'IQ puS.
+vaj Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej QechjemDaq, bartIq tu'lu',
+bartIq 'IQ law' Hoch latlhmey 'IQ puS.
+vaj QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej bartIqDaq, bo'Degh juH tu'lu',
+bo'Degh juH 'IQ law' Hoch latlhmey 'IQ puS.
+vaj bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+bo'Degh juHDaq, QIm mach tu'lu',
+QImvetlh 'IQ law' Hoch latlhmey 'IQ puS.
+vaj bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej QImvetlhDaq bo'Degh tu'lu',
+bo'Degh 'IQ law' Hoch latlhmey 'IQ puS.
+vaj QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej bo'DeghDaq, telHom tu'lu',
+telvetlh 'IQ law' Hoch latlhmey 'IQ puS.
+vaj bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej telvetlhDaq, boHom tu'lu',
+bovetlh 'IQ law' Hoch latlhmey 'IQ puS.
+vaj telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej bovetlhDaq, ghewHom tu'lu',
+ghewvetlh 'IQ law' Hoch latlhmey 'IQ puS.
+vaj boHomDaq 'oHtaH ghew'e',
+'ej telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej ghewvetlhDaq, lerup tu'lu',
+lerup 'IQ law' Hoch latlhmey 'IQ puS.
+vaj ghewDaq 'oHtaH lerup'e',
+'ej boHomDaq 'oHtaH ghew'e',
+'ej telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej lerupDaq, roSghaH tu'lu',
+roSghaH 'IQ law' Hoch latlhmey 'IQ puS.
+vaj lerupDaq 'oHtaH roSghaH'e',
+'ej ghewDaq 'oHtaH lerup'e',
+'ej boHomDaq 'oHtaH ghew'e',
+'ej telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej roSghaHDaq 'o'rIS tu'lu',
+'o'rIS 'IQ law' Hoch latlhmey 'IQ puS.
+vaj roSghaHDaq 'oHtaH 'o'rIS'e',
+'ej lerupDaq 'oHtaH roSghaH'e',
+'ej ghewDaq 'oHtaH lerup'e',
+'ej boHomDaq 'oHtaH ghew'e',
+'ej telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej 'o'rISDaq, HeySel tu'lu',
+HeySel 'IQ law' Hoch latlhmey 'IQ puS.
+vaj 'o'rISDaq 'oHtaH HeySel'e',
+'ej roSghaHDaq 'oHtaH 'o'rIS'e',
+'ej lerupDaq 'oHtaH roSghaH'e',
+'ej ghewDaq 'oHtaH lerup'e',
+'ej boHomDaq 'oHtaH ghew'e',
+'ej telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej HeySelDaq, valtIn tu'lu',
+valtIn 'IQ law' Hoch latlhmey 'IQ puS.
+vaj HeySelDaq 'oHtaH valtIn'e',
+'ej 'o'rISDaq 'oHtaH HeySel'e',
+'ej roSghaHDaq 'oHtaH 'o'rIS'e',
+'ej lerupDaq 'oHtaH roSghaH'e',
+'ej ghewDaq 'oHtaH lerup'e',
+'ej boHomDaq 'oHtaH ghew'e',
+'ej telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej valtInvetlh bavtaH tem mach,
+temvetlh 'IQ law' Hoch latlhmey 'IQ puS.
+vaj valtIn bavchu'taH tem'e',
+'ej HeySelDaq 'oHtaH valtIn'e',
+'ej 'o'rISDaq 'oHtaH HeySel'e',
+'ej roSghaHDaq 'oHtaH 'o'rIS'e',
+'ej lerupDaq 'oHtaH roSghaH'e',
+'ej ghewDaq 'oHtaH lerup'e',
+'ej boHomDaq 'oHtaH ghew'e',
+'ej telDaq 'oHtaH boHom'e',
+'ej bo'DeghDaq 'oHtaH tel'e',
+'ej QImDaq 'oHtaH bo'Degh'e',
+'ej bo'Degh juHDaq 'oHtaH QIm'e',
+'ej bartIqDaq 'oHtaH bo'Degh juH'e',
+'ej QechjemDaq 'oHtaH bartIq'e',
+'ej Qechjem'a'Daq 'oHtaH Qechjem'e',
+'ej SorDaq 'oHtaH Qechjem'a''e',
+'ej QemjIqDaq 'oHtaH Sor'e',
+'ej yavDaq 'oHtaH QemjIq'e',
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.
+
+'ej Hoch DechtaH magh nIl, magh nIl,
+'ej Hoch DechtaH magh nIl.

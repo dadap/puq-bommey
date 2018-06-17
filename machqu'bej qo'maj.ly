@@ -20,6 +20,7 @@
         a'4 d''8 e'' f''4 e''8 d''
         g' f'' e'' d'' c''2
 
+        \break
         \bar "||"
 
         c''4. c''8 e''4 c''
@@ -38,18 +39,17 @@
       qo'- vam- Daq rut ma- Hagh 'ej rut ma- SaQ,
       'ej rut vay' wI- tul, qoj wI- ghIj- lu'- taH.
       Hoch- vaD qo' wI- bon- taH, 'ej ngoD wI- Sov- nIS maH:
-      mach qo'- Hom, qo'- maj, qo'- vam!
+      mach- qu', mach- qu'- bej qo'- maj!
 
-      mach- qu'- bej qar- 'a' qo'- Hom?
-      mach- qu'- bej qar- 'a' qo'- maj?
-      mach- qu'- bej qar- 'a' qo'- vam?
-      mach- qu'- bej, qar- ba'!
+      mach- qu'- bej qo'- maj, qar- 'a'?
+      mach- qu'- bej qo'- maj, qar- 'a'?
+      mach- qu'- bej qo'- maj, qar- 'a'?
+      mach- qu'- bej qo'- maj!
     }
   }
   \new Lyrics {
     \lyricsto "bom" {
-      wa' maS
-      neH, wa' jul SuD je ghaj qo'- maj,
+      wa' maS neH, wa' jul SuD je ghaj qo'- maj,
       'ej mon- bogh ghot Da- legh- chugh, jup Da- ghaj.
       Hatlh wav- taH- bej HuD- 'a'- mey, 'ej tIn- qu' bIQ- 'a'- mey,
       'ach mach- qu'- bej qo'- maj!

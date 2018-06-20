@@ -48,6 +48,8 @@
   }
   \new Lyrics {
     \lyricsto "bom" {
+      \set stanza = #"1, 4. "
+
       ghor- ma- ghen- Der- Hom logh Hop- Daq SoH- taH. _
       bI- tlhab- bej 'ej bI- puv- laH.
       tIn- qu' logh, ma- mach- qu' maH,
@@ -63,6 +65,8 @@
   }
   \new Lyrics {
     \lyricsto "bom" {
+      \set stanza = #"2. "
+
       logh- Daq puv- taH Duj- mey, bI- puv- taH je.
       reH pa' bI- reH, 'ej reH bI- le'.
       bav- taH maS, yuQ, Hov- mey je.
@@ -75,6 +79,8 @@
   }
   \new Lyrics {
     \lyricsto "bom" {
+      \set stanza = #"3. "
+
       logh- Daq Hurgh- qu'- ba' Hoch, 'ej juH- lIj 'oH.
       Qong- Daq- Daq yI- chur- Ha'- 'egh- moH.
       maS, yuQ, Hov- mey je DI- legh,
@@ -83,14 +89,6 @@
       _ _ _ _ _ _ _ _ _ _ _
       jul Da- legh- qa' 'ej jaj chu' tagh- lu' bej,
       'ej tugh bI- _ vem- bej!
-    }
-  }
-  \new Lyrics {
-    \lyricsto "bom" {
-      ghor- ma- ghen- Der- Hom logh Hop- Daq SoH- taH. _
-      bI- tlhab- bej 'ej bI- puv- laH.
-      tIn- qu' logh, ma- mach- qu' maH,
-      logh gho- tI'- 'a'- Hom _ SoH, 'ej Dat bI-
     }
   }
 >> }
